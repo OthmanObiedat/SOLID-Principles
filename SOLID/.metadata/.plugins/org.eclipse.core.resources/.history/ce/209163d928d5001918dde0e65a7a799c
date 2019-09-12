@@ -1,0 +1,5 @@
+package SRP;
+
+public enum VehicleBrand {
+	BMW , TOYOTA , CHEVROLET, MERCEDES_BENZ ;
+}

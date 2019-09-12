@@ -1,0 +1,10 @@
+package SRP;
+
+public class VehicleProerties {
+
+	private VehicleType vehicleType;
+	private String vehicleNumber;
+	private String vehicleColor;
+	private String vehicleModel;
+	private VehicleBrand vehicleBrand;
+}

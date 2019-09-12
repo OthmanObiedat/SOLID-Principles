@@ -1,0 +1,6 @@
+package SRP;
+
+public enum VehicleType  {
+
+	
+}

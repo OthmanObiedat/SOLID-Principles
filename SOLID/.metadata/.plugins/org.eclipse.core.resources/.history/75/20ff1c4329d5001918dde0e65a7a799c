@@ -1,0 +1,9 @@
+package SRP;
+
+public class Vehicle {
+
+	private long vehicleId ;
+	private Driver driver ;
+	private VehicleProerties proerties;
+
+}
